@@ -139,13 +139,18 @@ include "header.php";
 										<label>
 											Size
 											<select class="input-select">
+												<option value="0">S</option>
+												<option value="0">M</option>
 												<option value="0">X</option>
+												<option value="0">XL</option>
 											</select>
 										</label>
 										<label>
 											Color
 											<select class="input-select">
 												<option value="0">Red</option>
+												<option value="0">Blue</option>
+												<option value="0">Black</option>
 											</select>
 										</label>
 									</div>
